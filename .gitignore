@@ -1,0 +1,7 @@
+# Generated output and local-only inputs — not part of the public repo.
+out/
+kit/
+kit.tar.gz
+protocols.json
+node_modules/
+.DS_Store
